@@ -1,0 +1,2 @@
+Amending RCW [[TODO]]
+Any individual operating an autonomous vehicle within the meaning established in RCW [[TODO]], such operator must obtain insurance in an amount not less than $75,000 except as provided by RCW [[TODO]]. 
