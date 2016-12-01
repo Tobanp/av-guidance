@@ -1,8 +1,4 @@
-- This section shall not be construed to modify liability between parties only for those vehicle designated by and operating as a vehicle with autonomy level of SAE 3 or greater. 
+- Prior to commencing suit for liability for damages caused by a vehicle designated as autonomous under RCW [[TODO]], any party may, by establishing by a preponderance of the evidence and upon pre-trial motion that the named vehicle was, at the time of the collision, engaged in an automated driving function.  Such a showing shall create a rebuttable presumption that the driver of the named vehicle shall be absolved of liability for damages and the manufacturer or installer (whichever is applicable) is added as a party to the suit and assuming any liabilities that would have been assessed against the driver of the named vehicle.  Such a showing shall require the moving to party to show that the automated function was a) installed properly on their vehicle at the time of the collision, b) was properly maintained and updated as per all relevant regulations and laws, and c) was activated and in control of the vehicle at the time of the collision.
 
-- The determination of an autonomy level may be a representation designated by the appropriate state licensing authority, federal regulator, or the manufacturer. 
 
-- The manufacturer of a vehicle which has been involved in a collision shall be strictly liable for all damages not in excess of five million dollars if the autonomous functionality has been engaged in a fashion which a reasonable person would believe comports with the recommendations of the manufacturer. The autonomous functionality must have been engaged for a reasonable period before such damage occurred such that the vehicle could have reasonably corrected the situation but for the error causing the damage. 
-
-- Notwithstanding the provisions of the preceeding paragraph, a manufacturer shall not be strictly liable if the vehicle has unauthorized modifications.
 
