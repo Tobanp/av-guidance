@@ -1,4 +1,4 @@
 - Prior to commencing suit for liability for damages caused by a vehicle designated as autonomous under RCW [[TODO]], any party may, by establishing by a preponderance of the evidence and upon pre-trial motion that the named vehicle was, at the time of the collision, engaged in an automated driving function.  Such a showing shall create a rebuttable presumption that the driver of the named vehicle shall be absolved of liability for damages and the manufacturer or installer (whichever is applicable) is added as a party to the suit and assuming any liabilities that would have been assessed against the driver of the named vehicle.  Such a showing shall require the moving to party to show that the automated function was a) installed properly on their vehicle at the time of the collision, b) was properly maintained and updated as per all relevant regulations and laws, and c) was activated and in control of the vehicle at the time of the collision.
 
-
+- Anyone who knowingly interferes the operation of a vehicle in autonomous mode shall be liable for such damages as they create. 
 
