@@ -7,3 +7,4 @@ The following definitions shall apply to all sections within this chapter.
 - **Testing** - Driving of an autonomous vehicle under supervision of a human operator that can take control of the vehicle immediately, manually or remotely.
 - **Manufacturer** - A person or entity that has manufactured and distributed motor vehicles in the United States that is certified to comply with all applicable federal motor vehicle safety standards and that has submitted appropriate Manufacturer identification information to the NHTSA as provided in 49 CFR section 566. 
 - **Upfitter** - An entity or person that modifies a motor vehicle after it was manufactured by installing a self-driving system in that motor vehicle to convert it to an autonomous vehicle
+- **Physical Control**
