@@ -1,0 +1,158 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <base href="">
+
+        <link rel="stylesheet" href="book.css">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+        <link rel="shortcut icon" href="favicon.png">
+
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+
+        <!-- MathJax -->
+        <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+        <!-- Fetch JQuery from CDN but have a local fallback -->
+        <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+        <script>
+            if (typeof jQuery == 'undefined') {
+                document.write(unescape("%3Cscript src='jquery.js'%3E%3C/script%3E"));
+            }
+        </script>
+    </head>
+    <body class="light">
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme = localStorage.getItem('theme');
+            if (theme == null) { theme = 'light'; }
+            $('body').removeClass().addClass(theme);
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var sidebar = localStorage.getItem('sidebar');
+            if (sidebar === "hidden") { $("html").addClass("sidebar-hidden") }
+            else if (sidebar === "visible") { $("html").addClass("sidebar-visible") }
+        </script>
+
+        <div id="sidebar" class="sidebar">
+            <ul class="chapter"><li><a href="Introduction.html"><strong>1.</strong> Overview</a></li><li><a href="./liability.html"><strong>2.</strong> Civil Liability</a></li><li><a href="./agencydelegation.html"><strong>3.</strong> Delegations</a></li><li><a href="./operationreqs.html"><strong>4.</strong> Operation</a></li><li><a href="./insurance.html"><strong>5.</strong> Insurance</a></li><li><a href="./privacy.html" class="active"><strong>6.</strong> Privacy</a></li><li><a href="./trafficlaws.html"><strong>7.</strong> Traffic Laws</a></li><li><ul class="section"><li><a href="./DUI.html"><strong>7.1.</strong> DUI</a></li><li><a href="./impliedconsent.html"><strong>7.2.</strong> Implied consent</a></li></ul></li></ul>
+        </div>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar" class="menu-bar">
+                    <div class="left-buttons">
+                        <i id="sidebar-toggle" class="fa fa-bars"></i>
+                        <i id="theme-toggle" class="fa fa-paint-brush"></i>
+                    </div>
+
+                    <h1 class="menu-title"></h1>
+
+                    <div class="right-buttons">
+                        <i id="print-button" class="fa fa-print" title="Print this book"></i>
+                    </div>
+                </div>
+
+                <div id="content" class="content">
+                    <h1>Privacy</h1>
+<p>The manufacturer must submit to the Chief Privacy Officer a report detailing the company´s efforts to protect consumer privacy.</p>
+<p>Manufacturers´ privacy policy shall include:</p>
+<ol>
+<li>User Notice and Consent- provide users with clear notification indicating the types of information collected, what information is shared outside the vehicle, and instructions on how to modify privacy settings.</li>
+</ol>
+<ol start="2">
+<li>Data Security - implement hardware and software at a level representing a “best-practice” in the industry. Limit access to data on an “as-needed” basis.</li>
+</ol>
+<ol start="3">
+<li>3rd Party Data Sharing and accountability- distinctly inform users of any parties, other than the manufacturer/operator, who have access to information collected by their AV. Also indicate whether this information is being purchased. In addition, take reasonable steps to ensure that the 3rd parties comply with data privacy and security notices.</li>
+</ol>
+<ol start="4">
+<li>Contextual Use - use data only for purposes previously agreed to by the user.</li>
+</ol>
+<ol start="5">
+<li>User Choice - provide users with meaningful opportunity to operate AVs ranging from bare transportation functionality to more enhanced personalization.</li>
+</ol>
+<ol start="6">
+<li>“Critical Incident Recorder” File- provide user/relevant parties with means for exporting event log of sensor information before/after accident or other critical incident in a generally used file format.</li>
+</ol>
+<ol start="7">
+<li>Breach Report and Notification - implement a data-breach response plan for notification to users when there is a reasonable possibility that the security and integrity of their personal data may have been compromised.</li>
+</ol>
+<ol start="8">
+<li>Data Management Limitations – collect and store the minimum amount of identified or identifiable data, and for the minimum time necessary for the purposes for which the personal data were collected. Whenever possible, add, to the privacy security measures, the de-identification of personal data</li>
+</ol>
+<p>The Chief Privacy Officer shall publish all reports online for public viewing within 90 days of receipt. The Chief Privacy Officer shall review and issue annual recommendations to the legislature identifying any recommended statutory updates.</p>
+
+                </div>
+
+                <!-- Mobile navigation buttons -->
+                
+                    <a href="./insurance.html" class="mobile-nav-chapters previous">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a href="./trafficlaws.html" class="mobile-nav-chapters next">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+
+            </div>
+
+            
+                <a href="./insurance.html" class="nav-chapters previous" title="You can navigate through the chapters using the arrow keys">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+            
+
+            
+                <a href="./trafficlaws.html" class="nav-chapters next" title="You can navigate through the chapters using the arrow keys">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+            
+
+        </div>
+
+
+        <!-- Local fallback for Font Awesome -->
+        <script>
+            if ($(".fa").css("font-family") !== "FontAwesome") {
+                $('<link rel="stylesheet" type="text/css" href="_FontAwesome/css/font-awesome.css">').prependTo('head');
+            }
+        </script>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        
+        <script type="text/javascript">
+            var socket = new WebSocket("ws://localhost:3001");
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload(true); // force reload from server (not from cache)
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+    
+
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+    </body>
+</html>
