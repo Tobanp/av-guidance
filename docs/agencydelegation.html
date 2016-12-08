@@ -1,0 +1,170 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <base href="">
+
+        <link rel="stylesheet" href="book.css">
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+        <link rel="shortcut icon" href="favicon.png">
+
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+
+        <!-- MathJax -->
+        <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+        <!-- Fetch JQuery from CDN but have a local fallback -->
+        <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+        <script>
+            if (typeof jQuery == 'undefined') {
+                document.write(unescape("%3Cscript src='jquery.js'%3E%3C/script%3E"));
+            }
+        </script>
+    </head>
+    <body class="light">
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme = localStorage.getItem('theme');
+            if (theme == null) { theme = 'light'; }
+            $('body').removeClass().addClass(theme);
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var sidebar = localStorage.getItem('sidebar');
+            if (sidebar === "hidden") { $("html").addClass("sidebar-hidden") }
+            else if (sidebar === "visible") { $("html").addClass("sidebar-visible") }
+        </script>
+
+        <div id="sidebar" class="sidebar">
+            <ul class="chapter"><li><a href="Introduction.html"><strong>1.</strong> Overview</a></li><li><a href="./liability.html"><strong>2.</strong> Civil Liability</a></li><li><a href="./agencydelegation.html" class="active"><strong>3.</strong> Delegations</a></li><li><a href="./operationreqs.html"><strong>4.</strong> Operation</a></li><li><a href="./insurance.html"><strong>5.</strong> Insurance</a></li><li><a href="./privacy.html"><strong>6.</strong> Privacy</a></li><li><a href="./trafficlaws.html"><strong>7.</strong> Traffic Laws</a></li><li><ul class="section"><li><a href="./DUI.html"><strong>7.1.</strong> DUI</a></li><li><a href="./impliedconsent.html"><strong>7.2.</strong> Implied consent</a></li></ul></li></ul>
+        </div>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar" class="menu-bar">
+                    <div class="left-buttons">
+                        <i id="sidebar-toggle" class="fa fa-bars"></i>
+                        <i id="theme-toggle" class="fa fa-paint-brush"></i>
+                    </div>
+
+                    <h1 class="menu-title"></h1>
+
+                    <div class="right-buttons">
+                        <i id="print-button" class="fa fa-print" title="Print this book"></i>
+                    </div>
+                </div>
+
+                <div id="content" class="content">
+                    <p>Privacy Requirements</p>
+<p>Prior to publicly deploying an Autonomous Vehicle for sale or as a transportation service, the manufacturer/operator will submit to the Washington Chief Privacy Officer a report, to be updated every two years thereafter, of compliance detailing company efforts to implement the following state interests:</p>
+<ul>
+<li>User Notice and Consent- provide users with clear notification indicating the types of information collected, what information is shared outside the vehicle, and instructions on how to modify privacy settings.</li>
+</ul>
+<ul>
+<li>Data Security - implement hardware and software at a level representing a “best-practice” in the industry. Limit access to data on an “as-needed” basis.</li>
+</ul>
+<ul>
+<li>3rd Party Data Sharing- distinctly inform users of any parties, other than the manufacturer/operator, who have access to information collected by their AV. Also indicate whether this information is being purchased.</li>
+</ul>
+<ul>
+<li>Contextual Use - use data only for purposes previously agreed to by the user.</li>
+</ul>
+<ul>
+<li>User Choice - provide users with meaningful opportunity to operate AVs ranging from bare transportation functionality to more enhanced personalization.</li>
+</ul>
+<ul>
+<li>“Critical Incident Recorder” File- provide user/relevant parties with means for exporting event log of sensor information before/after accident or other critical incident in a generally used file format.</li>
+</ul>
+<ul>
+<li>Breach Report and Notification - implement a data-breach response plan</li>
+</ul>
+<p>The Chief Privacy Officer shall publish all reports online for public viewing within 90 days of receipt. The Chief Privacy Officer shall review and issue annual recommendations to the legislature identifying any recommended statutory updates.</p>
+<p>Agency Delegation</p>
+<ul>
+<li>Washington State Department of Licensing - determine what level of license is required to be an “occupant in charge” of an AV depending on SAE level. Also create a “fleet operator” license and vehicle inspection requirements for application by ride-sharing AV businesses.</li>
+</ul>
+<ul>
+<li>Department of Employment Security is charged with undertaking a study on effects and recommendations to address a reduction in “drivers” necessary to meet state transportation needs</li>
+</ul>
+<ul>
+<li>Department of Natural Resources is charged with undertaking a study of effects and recommendations on the environmental impact of AVs</li>
+</ul>
+<ul>
+<li>Traffic Safety Commission is charged with undertaking a study of effects and making recommendations on the integration of AVs into highly urban areas</li>
+</ul>
+<ul>
+<li>Department of Transportation is charged with compiling a list of necessary infrastructure upgrades to facilitate the safe integration of AVs into WA roadways</li>
+</ul>
+
+                </div>
+
+                <!-- Mobile navigation buttons -->
+                
+                    <a href="./liability.html" class="mobile-nav-chapters previous">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a href="./operationreqs.html" class="mobile-nav-chapters next">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+
+            </div>
+
+            
+                <a href="./liability.html" class="nav-chapters previous" title="You can navigate through the chapters using the arrow keys">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+            
+
+            
+                <a href="./operationreqs.html" class="nav-chapters next" title="You can navigate through the chapters using the arrow keys">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+            
+
+        </div>
+
+
+        <!-- Local fallback for Font Awesome -->
+        <script>
+            if ($(".fa").css("font-family") !== "FontAwesome") {
+                $('<link rel="stylesheet" type="text/css" href="_FontAwesome/css/font-awesome.css">').prependTo('head');
+            }
+        </script>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        
+        <script type="text/javascript">
+            var socket = new WebSocket("ws://localhost:3001");
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload(true); // force reload from server (not from cache)
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+    
+
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+    </body>
+</html>
