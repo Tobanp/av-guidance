@@ -14,7 +14,7 @@ A manufacturer or other entity that wants to test the vehicle on public roadways
 The Agency will grant testing approval when evidence of insurance, operator training, and self-certification.
 
 ## ISSUING PERMISSION TO TEST
-Agency must involve Law enforcement agency before granting permission of testing
+Agency must involve the Department of Licensing and notify washington state patrol and relevant municipal police forces before granting permission of testing.
 Permission can be granted with restrictions of testing in certain areas
 Authorization may be suspended if the tester fails to … (any above requirements)
 The Agency will issue a letter authorization of testing in the jurisdiction and the State motor vehicle agency a permit for each test vehicle.
@@ -28,7 +28,8 @@ The operator must have received the proper training to manage the specific test 
 The operator must be able to take immediate control of the vehicle, manually or remotely, in case of an emergency or malfunctioning of the vehicle.
 The operator is responsible for following the traffic rules and of any traffic violation
 All accidents with test vehicles must be reported in accordance to WA laws.
-Penalties
+
+### Penalties
 Failure to follow state operating procedures will result in a fine of up to $25,000 for each infraction
 The state agency is responsible for issuing punishment
 Repeatedly failing to follow state laws will result in a suspension of testing permit
@@ -38,26 +39,24 @@ Repeatedly failing to follow state laws will result in a suspension of testing p
 
 
 ### Drivers
-For SAE Levels 2 and 3:
-The (agency/manufacturer/reseller) shall provide the operator with information about the levels of automation for specific vehicles
+For SAE Levels 2 and below:
+The (agency/manufacturer/reseller) shall provide the operator with information about the levels of automation for specific vehicles, if any. 
 The operator shall understand their responsibilities for each level of automation
-For SAE Levels 3 and lower (2 and lower):
-The operator must hold a valid driving license in the United States
-The operator is responsible for safe operation of the vehicle
-The operator is required to follow state traffic laws
-The operator is required to follow laws for licensed drivers created by the Department of 
+
 
 ### Licensing
 The operator must monitor the operation of the vehicle
 The operator must be immediately available to perform the driving task when requested or the lower level automated system disengages
+
 #### For SAE Level 3:
 The operator is the individual who engages the autonomous driving capabilities of the vehicle
 The operator must hold a valid driving license in Washington State
 The operator shall be trained to safely operate the vehicle in autonomous driving mode
 The operator is responsible for safe operation of the vehicle
-The operator is required to follow traffic laws, except the follow:
+The operator is required to follow traffic laws, except the following:
 The operator does not need to keep their hands on the steering wheel of the vehicle.
-The operator may use a cellular device as long as they are still able to safely monitor the operation of the vehicle.
+The operator may use a cellular device as long as they do not undertake action which would restrict their ability to resume control within a reasonable period.
+
 #### For SAE levels 4 and 5:
 The operator is the individual who engages the autonomous driving capabilities of the vehicle
 The operator does not need to be in the vehicle during operation
