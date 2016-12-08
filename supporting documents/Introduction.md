@@ -24,17 +24,17 @@ Furthermore, vehicles of level 3 or lower have an incentive to include a manual 
 For testing purposes, an override makes sense because the actual automation software has not necessarily proven it's capacity for directing that specific type of vehicle. In the short term, a human operator may provide a necessary stopgap measure if the software unexpectedly fails. 
 
 ## Insurance
-- Administrative requirement for Lyft and Uber requires $100,000 minimum insurance for the operator. We believe this should be sufficient for insurance for owners of autonomous vehicles without overburdening individuals. 
+- Administrative requirement for ridesharing requires $100,000 minimum insurance for the operator. We believe this should be sufficient for insurance for owners of autonomous vehicles without overburdening individuals. 
 
 We divided the insurance regime into the following scenarios, with a delegation of additional regulatory authority to the appropriate agency.
 
 1. The first regime is the individual who uses their vehicle only for private functions
     - This individual only requires the minimum state mandatory minimum for insurance
-2. The second regime is the individual who uses their vehicle privately, but also permits their vehicle to be used as part of a ride-sharing or similar scheme. 
+2. The second regime is the individual who privately owns a vehicle and also permits their vehicle to be used as part of a ride-sharing or similar scheme. 
     - This individual must carry insurance equal to $100,000 (the current minimum for commercial vehicle operaiton)
 3. The third regime is the corporation that uses a private fleet (for employes only). 
     - the corporation must carry commercial vehicle insurance equal to the statutory mandatory minimum
-4. The fourth and final regime is the corporation that uses a vehicle for public (taxi or ride-share) services.
+4. The fourth and final regime is the corporation that uses a vehicle for public (taxi or ride-share) services or rental.
     - This regime must carry insurance equal to the minimum requirement for manufacturers as promulgated by the NHTSA or as designated by the appropriate state agency.
 
 
@@ -44,9 +44,18 @@ This legislation package includes what we term a rebuttable presumption of manuf
 
 This rebuttable presumption balances the need to give individuals incentives to maintain their vehicles in a responsible manner, and for manufacturers to produce safe vehicles, while making sure that people who are hurt by autonomous vehicles can rest assured that they will be able to recover against the appropriate party for their injuries. 
 
+
 ## Testing
 
-The testing regime is intended to impose reasonable restriction on the operation of untested vehicles within the state, without unnecessarily restriciting the ability for potential upfitters to work within the state. The testing regime should be permissive enough to provide broad application of a test, while ensuring that they system meets minimum requirements. A combination of agency delegation along with a bare framework of statutory requirements offers the reassurance that individuals will need to know that a vehicle has met the minimum requirements for operation.
+The testing regime is intended to give manufacturers reasonable testing standards for the operation of vehicles which have not yet been certified by the state, without unnecessarily restriciting the ability for potential upfitters to work within the state. The testing regime should be permissive enough to provide broad application of a test, while ensuring that they system meets minimum requirements. A combination of agency delegation along with a bare framework of statutory requirements offers the reassurance that individuals will need to know that a vehicle has met the minimum requirements for operation.
+
+We divide the testing phase into three parts
+
+1. Application for testing permit
+2. Permit issuance
+3. Testing operation
+
+Penalties for violation are up to $25,000. 
 
 
 ## Recognition of Other States
@@ -61,7 +70,7 @@ At the same time, autonomous vehicles offer substantial benefits in the area of 
 
 ### DUI
 
-DUIs should not apply to people operating a vehicle that does not require user intervention (SAE level 4 or 5)
+DUIs should not apply to people occupying a vehicle that does not require user intervention (SAE level 4 or 5)
 
 ### Implied Consent
 
