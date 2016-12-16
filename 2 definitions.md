@@ -1,13 +1,25 @@
+# NEW SECTION Definitions
 The following definitions shall apply to all sections within this chapter.
 
-- **Levels of Autonomy** - 
 
-- **Autonomous Vehicle** - A motor vehicle which is equipped with a self-driving system. Any vehicle at or exceeding Level Three as established by the Society of American Engineers shall qualify as an autonomous vehicle. 
-- **Self-driving system** - Artificial Intelligence system which is capable of functioning under conditions which require it to engage in the dynamic driving task. 
-- **Driver** - Any person who engages a level 4 or higher AV capability shall not be considered a 'driver', 'operator', or 'in control of a vehicle'. Any person who engages a level 3 autonomous vehicle shall still be considered to be a driver, but only to the extent which they must be capable of resuming the dynamic driving task in situations for which the level 3 autonomous vehicle cannot sufficiently carry out the dynamic driving task. 
-- **Operator** - Individual who engages the automated vehicle functionality
-- **Testing** - Driving of an autonomous vehicle under supervision of a human operator that can take control of the vehicle immediately, manually or remotely.
-- **Manufacturer** - A person or entity that has manufactured and distributed motor vehicles in the United States that is certified to comply with all applicable federal motor vehicle safety standards and that has submitted appropriate Manufacturer identification information to the NHTSA as provided in 49 CFR section 566. 
-- **Upfitter** - An entity or person that modifies a motor vehicle after it was manufactured by installing a self-driving system in that motor vehicle to convert it to an autonomous vehicle
-- **Physical Control** - as defined in the RCW
-- **Dynamic Driving Task** - Use of sensory and motive capacity to engage, direct, and control a vehicle  whether through the use of eyes, hands, or technological means. 
+- Autonomous Vehicle - A motor vehicle that is equipped with a self-driving system. Any vehicle at or exceeding - Level Three as established by the Society of American Engineers shall qualify as an autonomous vehicle. 
+- Self-driving system - Artificial Intelligence system that is capable of functioning under conditions which require it to engage in the dynamic driving task. 
+- Testing - Driving of an autonomous vehicle under supervision of a human operator that can take control of the vehicle immediately, manually or remotely.
+- Autonomous Vehicle Manufacturer – Any individual or company that develops autonomous vehicles for testing or deployment purposes on public roadways; this shall include original equipment manufacturers, alterers, or modifiers;  
+- Other Autonomous Vehicle Entity – is any individual or company that is not a manufacturer and is involved in any activity related to the manufacturing, testing, operation, selling, or renting of an autonomous vehicle
+- Dynamic Driving Task - Use of sensory and motive capacity to engage, direct, and control a vehicle whether through the use of eyes, hands, or technological means. 
+- Activator - Individual who activates the automated vehicle functionality
+
+- "Operator or driver" means every person who drives or is in actual physical control of a vehicle provided that in regard to any vehicle whose self-driving system is rated as level four or higher and is properly engaged, the self-driving system shall be the driver and the self-driving system shall be considered the operator or driver of the vehicle.
+
+- Level Zero Autonomous Vehicle - the full-time performance by the human driver of all aspects of the dynamic driving task, even when enhanced by warning or intervention systems
+
+- Level One Autonomous Vehicle - the driving mode-specific execution by a driver assistance system of either steering or acceleration/deceleration using information about the driving environment and with the expectation that the human driver perform all remaining aspects of the dynamic driving task
+
+- Level Two Autonomous Vehicle - the driving mode-specific execution by one or more driver assistance systems of both steering and acceleration/ deceleration using information about the driving environment and with the expectation that the human driver perform all remaining aspects of the dynamic driving task
+
+- Level Three Autonomous Vehicle - the driving mode-specific performance by an automated driving system of all aspects of the dynamic driving task with the expectation that the human driver will respond appropriately to a request to intervene
+
+- Level Four Autonomous Vehicle - the driving mode-specific performance by an automated driving system of all aspects of the dynamic driving task, even if a human driver does not respond appropriately to a request to intervene
+
+- Level Five Autonomous Vehicle - the full-time performance by an automated driving system of all aspects of the dynamic driving task under all roadway and environmental conditions that can be managed by a human driver
