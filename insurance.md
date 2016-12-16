@@ -1,3 +1,5 @@
+# Insurance
+
 Amending RCW [[TODO]]
 - Any individual operating an autonomous vehicle for personal use meaning must obtain insurance in such amount required by RCW 46.29.090. 
 
