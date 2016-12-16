@@ -1,7 +1,6 @@
 
-# NEW SECTION Agency Delegation
+# NEW SECTION Agency Delegations
 
-- Washington State Department of Licensing - determine what level of license is required to be an “occupant in charge” of an AV depending on SAE level. Also create a “fleet operator” license and vehicle inspection requirements for application by ride-sharing AV businesses. Upon licensing a vehicle within the state, the DoL will provide a mandatory notice regarding the autonomous functions of the vehicle. Such notice could be provided to the seller of the vehicle or directly during licensing. 
 - Department of Employment Security is charged with undertaking a study on effects and recommendations to address a reduction in “drivers” necessary to meet state transportation needs
 - Department of Natural Resources is charged with undertaking a study of effects and recommendations on the environmental impact of AVs
 - Traffic Safety Commission is charged with undertaking a study of effects and making recommendations on the integration of AVs into highly urban areas
@@ -11,14 +10,16 @@
 ## ADMINISTRATIVE ISSUES
 
 
-Creation of the Committee. The Agency will create and launch the “Committee for Autonomous Technologies Safety and Cybersecurity” (CyberCATS). The Committee will include representatives from the governor’s office, the motor vehicle administration, the State department of transportation, the State law enforcement agency, the State Highway Safety Office, office of information technology, State insurance regulator, the State office(s) representing the aging and disabled communities, toll authorities, and transit authorities. [Need to check with Daniel what the name of these entities in WA are]
+**The Committee.** The Department for Licensing will create and launch the “Committee for Autonomous Technologies Safety and Cybersecurity” (CyberCATS). The Committee may include representatives from the Office of the Governor, the Department of Licensing, the State Department of Transportation, the Washington State Patrol, Washington Traffic Safety Commission, the Office of the Chief Information Officer, Washington State Office of the Insurance Commissioner, Washington State Department of Social and Health Services, tolling and transit authorities from the Washington Department of Transportation, among other representatives necessary for coordinating the testing and operating activities of the autonomous technology.
 
-Coordination. The Agency will inform the CyberCATS about the requests received to test autonomous vehicles and the status of the Agency’s responses to them.
+**Information.** The Department of Licensing will inform the CyberCATS about the requests received to test autonomous vehicles and the status of the Department’s responses to them.
+Data testing requirements. The Department of Licensing will define with the CyberCATS the necessary data from the entity to operate an autonomous vehicle in Washington State. 
 
-CyberCATS will work in conjunction with the chief of police and the department of transportation to establish a training program for police officers regarding training for enforcement issues relating to autonomous vehicles.
+## Delegation to Department of Licensing
+Review of existing laws. The Department of Licensing, in coordination with the CyberCATS, will review main statutes to identify any legal issues that need to be addressed prior to the deployment and operation of automated vehicles and to ensure a safe testing and deployment of Autonomous Vehicles. In particular, but not limited to, the Department will examine the licensing and registration procedures; driver information and training, the insurance and liability rules as well as the enforcement of traffic laws and motor vehicle inspections. 
 
-Better Regulation. The Agency will review main statutes to identify any legal issues that need to be addressed prior to the deployment and operation of automated vehicles. In particular, but not limited to, the Agency will examine the (1) licensing/registration; (2) driver education/training; (3) insurance and liability; (4) enforcement of traffic laws/regulations; and (5) administration of motor vehicle inspections, in order to address unnecessary barriers to safe testing, deployment, and operation of HAVs. [Need to see if we have to delegate all of these or if the rest of the team has dealt already with some of them]
+Test Application Procedure. The Department of Licensing will define an internal procedure for the application of manufacturers to test autonomous vehicles in the State of Washington. 
 
-Test Application Procedure. The Agency will define an internal procedure for the application of manufacturers to test autonomous vehicles in the State of Washington. 
+Test Vehicle Permit Issuance Procedure. Department of Licensing will define an internal procedure for issuing test vehicle permits for autonomous vehicles. 
 
-Test Vehicle Permit Issuance Procedure. The motor vehicle agency will define an internal procedure for issuing test vehicle permits for autonomous vehicles.
+Determine what level of license is required to be an “occupant in charge” of an AV depending on levels of automation. Also create a “fleet operator” license and vehicle inspection requirements for application by ride-sharing AV businesses. Upon licensing a vehicle within the state, the DoL will provide a mandatory notice regarding the autonomous functions of the vehicle. Such notice could be provided to the seller of the vehicle or directly during licensing. 
