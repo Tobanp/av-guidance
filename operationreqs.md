@@ -93,6 +93,8 @@ Creation of the Committee. The Agency will create and launch the “Committee fo
 
 Coordination. The Agency will inform the CyberCATS about the requests received to test autonomous vehicles and the status of the Agency’s responses to them.
 
+CyberCATS will work in conjunction with the chief of police and the department of transportation to establish a training program for police officers regarding training for enforcement issues relating to autonomous vehicles.
+
 Better Regulation. The Agency will review main statutes to identify any legal issues that need to be addressed prior to the deployment and operation of automated vehicles. In particular, but not limited to, the Agency will examine the (1) licensing/registration; (2) driver education/training; (3) insurance and liability; (4) enforcement of traffic laws/regulations; and (5) administration of motor vehicle inspections, in order to address unnecessary barriers to safe testing, deployment, and operation of HAVs. [Need to see if we have to delegate all of these or if the rest of the team has dealt already with some of them]
 
 Test Application Procedure. The Agency will define an internal procedure for the application of manufacturers to test autonomous vehicles in the State of Washington. 

@@ -1,5 +1,5 @@
 # Privacy
-The manufacturer must submit to the Chief Privacy Officer a report detailing the company´s efforts to protect consumer privacy.  
+The manufacturer must submit to the Chief Privacy Officer a report detailing the company´s efforts to protect consumer privacy upon deployment and every two years thereafter.  
 
 Manufacturers´ privacy policy shall include:
 
