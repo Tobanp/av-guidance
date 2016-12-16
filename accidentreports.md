@@ -1,1 +1,0 @@
-Amend RCW 46.52.030 to read 'driver or operator.'
