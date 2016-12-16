@@ -1,3 +1,4 @@
+
 # NEW SECTION Liability
 - For any civil claim which ocurrs with a vehicle operating at SAE level 3 as certified by the manufacturer or the Department of Licensing, any party to an action based on the incident may establish a rebuttable presumption that the autonomous function of the vehicle was the proximate cause of the claim. The presumption may be established by showing by a preponderance of the evidence the following items:
     1. The autonomous functionality of the vehicle was engaged at the time the claim arose; 

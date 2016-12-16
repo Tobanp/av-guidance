@@ -1,3 +1,4 @@
+
 # NEW SECTION Agency Delegation
 
 - Washington State Department of Licensing - determine what level of license is required to be an “occupant in charge” of an AV depending on SAE level. Also create a “fleet operator” license and vehicle inspection requirements for application by ride-sharing AV businesses. Upon licensing a vehicle within the state, the DoL will provide a mandatory notice regarding the autonomous functions of the vehicle. Such notice could be provided to the seller of the vehicle or directly during licensing. 
