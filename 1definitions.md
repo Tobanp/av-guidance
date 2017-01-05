@@ -1,7 +1,6 @@
 
-# NEW SECTION Definitions
+# NEW SECTION. Sec. 1. Definitions
 The following definitions shall apply to all sections within this chapter.
-
 
 - Autonomous Vehicle - A motor vehicle that is equipped with a self-driving system. Any vehicle at or exceeding - Level Three as established by the Society of American Engineers shall qualify as an autonomous vehicle. 
 - Self-driving system - Artificial Intelligence system that is capable of functioning under conditions which require it to engage in the dynamic driving task. 

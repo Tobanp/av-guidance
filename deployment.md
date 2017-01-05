@@ -1,7 +1,6 @@
 
 # NEW SECTION Deployed Vehicles
 
-
 ## For Levels 2 and 3 autonomous vehicles:
 - The manufacturer or reseller shall provide the activator with information about the levels of automation for specific vehicles.
 - The activator shall understand their responsibilities for each level of automation.
@@ -38,7 +37,7 @@
 - The new registration and title shall identify the level of automation according to definitions in the [RCW 46.04].
 
 ## For vehicles levels 3 autonomous vehicles and above:
-- The vehicle shall have a sticker on the front and rear windshield/bumper that identifies the level of automation defined in the [RCW 46.04].
+- The vehicle shall have a sticker on the front and rear windshield/bumper that identifies the level of automation defined in this chapter.
 
 ### Operation certification
 - To start the operation of an autonomous vehicle, and get the operation certification, the manufacturer must submit the following information:
@@ -51,4 +50,3 @@
 - The activator is responsible for following the traffic rules and of any traffic violation.
 - All accidents with vehicles must be reported in accordance to Washington State laws.
 - Vehicle data pertaining to the accident must be made available to the state agency.
-

@@ -1,9 +1,9 @@
 
 # NEW SECTION Privacy
 
-The manufacturer must submit to the Chief Privacy Officer a report detailing the company´s efforts to protect consumer privacy upon deployment and every two years thereafter.  
+The manufacturer must submit to the Chief Privacy Officer a report detailing the company's efforts to protect consumer privacy upon deployment and every two years thereafter.  
 
-Manufacturers´ privacy policy shall include:
+Manufacturers' privacy policy shall include:
 
 1. User Notice and Consent- provide users with clear notification indicating the types of information collected, what information is shared outside the vehicle, and instructions on how to modify privacy settings.
 2. Data Security - implement hardware and software at a level representing a “best-practice” in the industry. Limit access to data on an “as-needed” basis.

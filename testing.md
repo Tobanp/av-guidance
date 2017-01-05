@@ -37,5 +37,3 @@
 ### Penalties
 Failure to follow state testing requirements for a vehicle operating under a testing license will result in a fine. 
 The Department of Licensing shall be responsible for issuing fines for non-compliance. 
-
-
