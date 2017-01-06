@@ -4,7 +4,7 @@ header-includes:
   - \linenumbers
 ---
 
-|                         | **House Bill 1439**    |                          |
+|                         | **House Bill XXXX**    |                          |
 |:-----------------------:|:----------------------:|:------------------------:|
 | **State of Washington** |   **65th Legislature** | **2017 Regular Session** |   
 
