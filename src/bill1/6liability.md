@@ -1,5 +1,5 @@
 
-# NEW SECTION Liability
+# NEW SECTION Sec. 6 Liability
 For any civil claim arising out of an accident or collision involving an autonomous vehicle registered as level 3 or greater, the activator and any passenger may be excused from civil liability and the autonomous vehicle manufacturer joined as a party upon a showing by any party that:
 
 1. the autonomous functionality of the vehicle was properly engaged at the time of the accident or collision; and

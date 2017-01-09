@@ -1,7 +1,7 @@
 
-# NEW SECTION Privacy
+# NEW SECTION Sec. 7 Privacy
 
-The manufacturer must submit to the Chief Privacy Officer a report detailing the company's efforts to protect consumer privacy upon deployment and every two years thereafter.  
+The manufacturer must submit to the Department of Licensing a report detailing the company's efforts to protect consumer privacy. At any time the manufacturer makes a material change in the privacy policy, such policy shall be resubmitted to the Department of Licensing. At the time of such receipt the Department of Licensing will review such document in coordination with the State Chief Privacy Officer. 
 
 Manufacturers' privacy policy shall include:
 

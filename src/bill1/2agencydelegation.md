@@ -10,14 +10,17 @@ Data testing requirements. The Department of Licensing will define with the Cybe
 Review of existing laws. CyberCATS will review main statutes to identify any legal issues that need to be addressed prior to the deployment and operation of automated vehicles and to ensure safe testing and deployment of autonomous vehicles. In particular, but not limited to, the licensing and registration procedures; driver information and training; the insurance and liability rules as well as the enforcement of traffic laws and motor vehicle inspections; requirements and needs of law enforcement related to autonomous vehicles; and whether a preclearance regime for the operation of autonomous vehicles should be adopted by Washington State.
 
 
-CyberCATS shall coordinate with the following agencies to produce reports:
-1. Department of Employment Security is charged with undertaking a study on effects and recommendations to address a reduction in “drivers” necessary to meet state transportation needs
-2. Department of Natural Resources is charged with undertaking a study of effects and recommendations on the environmental impact of AVs
-3. Traffic Safety Commission is charged with undertaking a study of effects and making recommendations on the integration of AVs
-4. Department of Transportation is charged with compiling a list of necessary infrastructure upgrades to facilitate the safe integration of AVs into WA roadways
+CyberCATS shall produce the following reports in consultation with the state agency or agencies having the most direct oversight of such subject matter:
+
+1. Reduction in drivers for taxi, ride sharing, and long-haul jobs.
+2. Environmental effects of autonomous vehicles and related changes in vehicle use patterns
+3. How AVs will impact traffic safety
+4. Necessary infrastructure upgrades and improvements to safety that can be achieved through public - private partnerships
+5. The impact of autonomous vehicles on disadvantaged populations including what changes may be made to improve access for disabled and indigent populations. 
 
 **Timing**
-The reports shall be produced and presented to the legislature within one year. 
+The reports shall be produced and presented to the legislature within one year. An extension for an individual report may be sought for a time of not more than six months. 
 
 **Additional Tasks**
 At regular intervals, CyberCATS shall evaluate and determine additional related studies which need to be carried out for the effective administration of autonomous vehicles. 
+

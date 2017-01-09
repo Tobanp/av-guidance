@@ -1,5 +1,5 @@
 
-# NEW SECTION Testing
+# NEW SECTION Sec. 3 Testing
 
 ## APPLYING FOR A TEST VEHICLE PERMIT
 A manufacturer or autonomous vehicle entity that wants to test the vehicle on public roadways must apply to the Department of Licensing which may issue the test vehicle permit. The application must include:
@@ -29,10 +29,10 @@ The Agency shall grant such testing permit when evidence the foregoing has been 
 3. The activator must have received the proper training to manage the specific test vehicle.
 4. The activator must be able to take immediate control of the vehicle, manually or remotely, in case of an emergency or malfunctioning of the vehicle.
 5. The activator is responsible for following the traffic rules and of any traffic violation of the vehicle.
-6. All accidents with test vehicles must be reported in accordance to State laws.
+6. All accidents with test vehicles must be reported in accordance with State laws.
 7. A testing license must specify the range of autonomous capacities to be tested. 
 
 
 ### Penalties
-Failure to follow state testing requirements for a vehicle operating under a testing license will result in a fine. 
+Failure to follow state testing requirements for a vehicle operating under a testing license shall result in a fine not to exceed $20,000. 
 The Department of Licensing shall be responsible for issuing fines for non-compliance. 
