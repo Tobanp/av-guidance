@@ -1,6 +1,13 @@
 
 # NEW SECTION Liability
-- For any civil claim which ocurrs with a vehicle operating at automation level 3 as certified by the manufacturer or the Department of Licensing, any party to an action based on the incident may establish a rebuttable presumption that the autonomous function of the vehicle was the proximate cause of the claim. The presumption may be established by showing by a preponderance of the evidence the following items:
-    1. The autonomous functionality of the vehicle was engaged at the time the claim arose; 
-    2. Any of the owner, operator, or other responsible party reasonably maintained the vehicle's autonomous driving components in accordance with applicable state law and manufacturer guidelines. 
-Once such showing has been made, the manufacturer, upfitter, or other party which affixed and made available autonomous driving funcitonality to the vehicle operator may be joined in the action.
+For any civil claim arising out of an accident or collision involving an autonomous vehicle registered as level 3 or greater, the activator and any passenger may be excused from civil liability and the autonomous vehicle manufacturer joined as a party upon a showing by any party that:
+
+1. the autonomous functionality of the vehicle was properly engaged at the time of the accident or collision; and
+2. the owner of the autonomous vehicle reasonably maintained the vehicle in accordance with relevant state law and manufacturer guidelines.
+
+Once such a showing has been made, the presiding court shall adopt a rebuttable presumption that the self-driving system was the proximate cause of the accident.  
+
+This presumption shall be rebuttable upon a showing that:
+
+1.  the self-driving system was designed and built in accordance with reasonable measures to ensure crash avoidance and minimization of harm to human life and safety; and
+2.  the autonomous vehicle manufacturer was reasonably prudent in ensuring the safe operation of its vehicle by consumers

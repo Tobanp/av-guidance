@@ -17,8 +17,7 @@ header-includes:
 
 
     
-    AN ACT Building Autonomous Technologies, Manufacturing, and Networks
-AN ACT Relating to the use of autonomous vehicles within the state of Washington; 
+    AN ACT Relating to Building Autonomous Technologies, Manufacturing, and Networks
 - adding a new chapter to TITLE 46;
 
 BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF WASHINGTON:
