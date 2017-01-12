@@ -1,4 +1,4 @@
-# NEW SECTION Sec. 4 Use of Autonomous Vehicles
+# NEW SECTION Sec. 4 Operation of Autonomous Vehicles
 
 ## For Levels 2 and 3 autonomous vehicles:
 1. The manufacturer or reseller shall provide the activator with information about the levels of automation for specific vehicles.

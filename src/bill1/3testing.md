@@ -3,14 +3,16 @@
 
 ## APPLYING FOR A TEST VEHICLE PERMIT
 A manufacturer or autonomous vehicle entity that wants to test the vehicle on public roadways must apply to the Department of Licensing which may issue the test vehicle permit. The application must include:
-    1. Statement that each vehicle follows NHTSA Performance guidance and complies with applicable Federal Motor Vehicle Safety Standard.
-    2. Identification of manufacturer or autonomous vehicle entity and contact information of the testing program director.
-    3. Vehicles’ identification to be tested on public roadways by VIN, vehicle type, and year, make, and model.
-    4. Identification of the operator of the test vehicle with their driver’s license number, and respective jurisdiction.
-    5. Safety and compliance plan, including self-certification of testing and compliance to NHTSA’s guidance (a copy of the summary Safety Assessment submitted to the NHTSA per the Vehicle Performance Guidance).
-    6. Privacy data policy.
-    7. Evidence of insurance, surety bond, or proof of self-insurance for 5 million US dollars.
-    8. Summary of the activators’ training.
+    
+1. Statement that each vehicle follows NHTSA Performance guidance and complies with applicable Federal Motor Vehicle Safety Standard.
+2. Identification of manufacturer or autonomous vehicle entity and contact information of the testing program director.
+3. Vehicles’ identification to be tested on public roadways by VIN, vehicle type, and year, make, and model.
+4. Identification of the operator of the test vehicle with their driver’s license number, and respective jurisdiction.
+5. Safety and compliance plan, including self-certification of testing and compliance to NHTSA’s guidance (a copy of the summary Safety Assessment submitted to the NHTSA per the Vehicle Performance Guidance).
+6. Privacy data policy.
+7. Evidence of insurance, surety bond, or proof of self-insurance for 5 million US dollars.
+8. Summary of the activators’ training.
+
 The Agency shall grant such testing permit when evidence the foregoing has been duly submitted, and upon verification that the testing organization is otherwise in compliance with vehicle testing regulation in the State of Washington. 
 
 
@@ -36,3 +38,4 @@ The Agency shall grant such testing permit when evidence the foregoing has been 
 ### Penalties
 Failure to follow state testing requirements for a vehicle operating under a testing license shall result in a fine not to exceed $20,000. 
 The Department of Licensing shall be responsible for issuing fines for non-compliance. 
+
