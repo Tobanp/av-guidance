@@ -6,6 +6,9 @@ Our bill includes a requirement for the DoL to maintain a database of SAE Level 
 
 To encourage safe technological innovation, our proposed testing regime is designed to promote public safety and responsible vehicle testing. Since vehicles currently tested by manufacturers are being operated and maintained by trained professionals, there are fewer requirements than if the vehicle is operated by the general public. Manufacturers will receive a testing permit upon submission of required documentation. Failure to adhere to parameters of issuance, or testing beyond that specified in the application (without amendment) is subject to fine or loss of testing license.
 
+The bill creates the Committee for Autonomous Technologies, Safety, and Cybersecurity (CyberCATS) with a double aim: (1) to facilitate coordination among agents involved in the deployment of AV within Washington State, and (2) to produce recommendations to guide the transition from the traditional transportation means towards intelligent transport systems. An early policy response from CyberCATS could shape how AV technology is developed for the advantage of all Washington community and economy.
+
+The bill reinforces privacy protections for AV’s users. With our proposal, the user will know exactly what data and for what purposes is being collected, will know about data breaches, and will had access to data in case of an accident. In addition, data management limitations, data security, and de-identification of personal data policies are introduced. The purpose is to advance transparency, accountability values, and ultimately, consumers’ trust in AVs.
 
 # Narrative Explanation
 Autonomous vehicles will be entering the marketplace at an increasing pace. States such as Michigan and Florida have taken the lead by promulgating regulations which attempt to regulate an evolving market. It is conceivable that an autonomous vehicle manufacturer could operate in Washington without regulation, but in the face of potential litigation during testing phases, certainty provides a substantial incentive.
@@ -17,7 +20,7 @@ In order to provide the reassurance sought by consumers and the certainty sought
 - Delegate to competent state agencies
 - Provide a legal framework for unexpected developments in technology
 - Update statutes which do not account for autonomous operation
-- Except in matter which autonomous vehicles necessarily differ from standard vehicles, the standard regime should apply. 
+- Except in matter which autonomous vehicles necessarily differ from standard vehicles, the current regulations should provide a default rule.  
 
 ## Exclusion of Mandatory Manual Override
 
@@ -51,27 +54,63 @@ While manufacturers have already completed millions of miles of testing, as with
 [^vehdeal]: http://app.leg.wa.gov/rcw/default.aspx?cite=46.16A.200
 [^muchtest]: http://www.wsj.com/articles/googles-self-driving-car-program-odometer-reaches-2-million-miles-1475683321. https://electrek.co/2016/11/13/tesla-autopilot-billion-miles-data-self-driving-program/ 
 
-## Insurance [[TODO]]
-- Administrative requirement for ridesharing requires $100,000 minimum insurance for the operator. We believe this should be sufficient for insurance for owners of autonomous vehicles without overburdening individuals. 
+## Insurance
+The insurance provisions make explicit the different uses for autonomous vehicles by providing broad language to cover four primary groups of users. The actual amounts for insurance mirror the current requirements for insurance for personal or business use in Washington State, using transportation network company insurance guidelines in Seattle as a model for insurance amounts required for the transportation network companies using autonomous vehicles. Related or new models of business could require additional legislation, though the current provisions cover anticipated business models. 
 
-We divided the insurance regime into the following scenarios, with a delegation of additional regulatory authority to the appropriate agency.
+We divided explicitly categorized the insurance into the following logical groups. 
 
-1. The first regime is the individual who uses their vehicle only for private functions
+1. The first category is the individual who uses their vehicle only for private functions
     - This individual only requires the minimum state mandatory minimum for insurance
-2. The second regime is the individual who privately owns a vehicle and also permits their vehicle to be used as part of a ride-sharing or similar scheme. 
+2. The second category is the individual who privately owns a vehicle and also permits their vehicle to be used as part of a ride-sharing or similar scheme.
     - This individual must carry insurance equal to $100,000 (the current minimum for commercial vehicle operaiton)
-3. The third regime is the corporation that uses a private fleet (for employes only). 
+3. The third category is the corporation that uses a private fleet (for employes only). 
     - the corporation must carry commercial vehicle insurance equal to the statutory mandatory minimum
-4. The fourth and final regime is the corporation that uses a vehicle for public (taxi or ride-share) services or rental.
-    - This regime must carry insurance equal to the minimum requirement for manufacturers as promulgated by the NHTSA or as designated by the appropriate state agency.
+4. The fourth and final category is the corporation that uses a vehicle for public (taxi or ride-share) services or rental.
+    - This category must carry insurance equal to the minimum requirement for manufacturers as promulgated by the NHTSA or as designated by the appropriate state agency.
 
 
-## Rebuttable Presumption [[TODO]]
+## Civil Liability
 
-This legislation package includes what we term a rebuttable presumption of manufacturer liability. The reason this was selected is because in most cases, the manufacturer will have all requisite control over the function of the vehicle without the intervening cause of a driver. However, the manufacturer should not be strictly liable because the owner of the vehicle will have certain reasonable maintenance requirements which they must follow. On a showing that the vehicle was properly maintained (in accordance with substantive requirements related to the cause of the accident), the manufacturer may be substituted for the owner / individual in physical control of the vehicle. 
+The civil liability framework envisioned by the legislation seeks to
+answer a fundamental question of autonomous vehicles: if it gets into an
+accident, whose fault is it? Traditional auto liability regimes
+typically seek to determine which of the drivers involved in the crash
+was responsible for it. If one of those drivers is a piece of software
+operating various hardware autonomously, that question becomes much more
+complex.
 
-This rebuttable presumption balances the need to give individuals incentives to maintain their vehicles in a responsible manner, and for manufacturers to produce safe vehicles, while making sure that people who are hurt by autonomous vehicles can rest assured that they will be able to recover against the appropriate party for their injuries. 
+The bill proposes that Washington State adopt a novel and
+forward-looking liability scheme that allows the manufacturer of the AV
+system to be joined to an auto liability suit, provided that certain
+preconditions are met. This approach offers a way to account for the
+fact that the passenger who activates the system surrenders control of
+the vehicle and thus shouldn’t be held accountable for any mistakes the
+system may make.[^1] Upon showing that the system was properly
+maintained and engaged at the time of the incident, the “activator” is
+excused from liability and the manufacturer added. The court would then
+proceed with a rebuttal presumption that the manufacturer is the liable
+party. This presumption can then be rebutted by a showing that *either
+the other party was the true cause of the accident or that* the
+manufacturer took reasonable care to ensure crash avoidance and human
+safety and did a reasonable job of ensuring the safe operation by the
+consumer. *If the other party was a proximate cause, the court will
+apportion blame between the manufacturer and the other driver.* *If the
+manufacturer makes such a showing, the court will treat the matter as a
+no-fault accident and excuse the manufacturer from the case. *
 
+These provisions achieve three goals. First, they excuse from liability
+the passenger who, although they activated the system, were not in
+physical control of the vehicle at the time of the incident. Second, it
+streamlines the products liability framework that would undoubtedly
+arise through the common law in the absence of action by the
+legislature. Finally, it creates a market incentive for AV manufacturers
+to take care to ensure not just crash worthiness, but crash avoidance.
+The resulting regime is one that incentivizes safety and creates
+assurance that irresponsible actors will be held accountable.
+
+[^1]: See also Gurney, Jeffrey, “Sue My Car, Not Me: Products Liability
+    and Accidents Involving Autonomous Vehicles”, Journal of Law,
+    Technology & Policy, Vol. 2013, No. 2, 247-277
 
 ## Testing 
 While the public can already purchase vehicles equipped with semi-autonomous features, over 30 manufacturers are still largely in the “testing” phase of development as the industry moves towards a fully autonomous vehicle (SAE Level 5)[^features]. This presents an opportunity for Washington to become an industry leader with prompt, commercially accommodatable legislation, while improving the safety of these future vehicles for Washington residents. The unique climate of Washington relative to other major hubs of autonomous vehicle testing (i.e. California, Michigan, etc.) makes it especially beneficial to the people of Washington to encourage manufacturers to bring their testing here.[^otherstatetest] Prompt testing will improve the adeptness to the vehicles operating in Washington through improved familiarity and experience with Washington weather, terrain, and infrastructure.[^whywash] The testing regulations are divided into 3 parts: 1) application for a testing permit, 2) permit issuance, and 3) testing operation.
@@ -94,27 +133,35 @@ Rather than evaluating the technological adequacy of autonomous test vehicles, t
 A testing license only grants manufacturers the right to test their vehicle under the supervision of an employee or contractor, and does not allow for use by the general public. Operational policies balance the need for manufacturers to test their autonomous technologies in real-world conditions, while ensuring a human backup to maintain safety of the public. Additionally, manufacturers must specify in their license, or through an amendment, the exact range of capabilities and geographic regions in which they intend to test. This will ensure the public can be notified prior to the use of testing vehicles in their neighborhood. In the event a manufacturer operates without a testing license or goes beyond the scope of their license, the DoL is empowered to fine that manufacturer relative to the severity of non-compliance.
 
 
-## Recognition of Other States [[TODO]]
+## Recognition of Other States
 
-Other states will inevitably adopt measures for recognizing the efficacy of other testing regimes in other states. To the extent that the Department of Transportation or other appropriate state agency believes that the other state has assured the minimum sufficiency of other testing regimes, the state of Washington will give full faith and credit to the licensing of autonomous vehicles in such state for private operation. 
+Autonomous vehicles licensed in other states should be able to drive into Washington without problem. Autonomous vehicles owned by state residents must be registered with the Department of Licensing, which will give the state effective notice concerning the makes and models of vehicles with autonomous capacities.
 
-## Traffic Regulations [[TODO]]
+## Traffic Regulations
 
 Autonomous vehicles and their manufacturers should be given a reasonable degree of judgment with regard to the operation of a vehicle, especially in exigent circumstances. The traffic regulations and courts have offered some reasonable standard of deviation to human drivers, and the manufacturers should be held to that same judicial standard. 
 
-At the same time, autonomous vehicles offer substantial benefits in the area of impaired driving, and should be permitted to provide security to users who wish to use autonomous capabilities while impaired rather than choosing to dangerously operate a vehicle manually.
+## DUI and Implied Consent
 
-### DUI [[TODO]]
+DUIs should not apply to people occupying a vehicle that does not require user intervention (SAE level 4 or 5). A level three vehicle may require an activator to resume the dynamic driving task, and therefore should not permit people to drive under the influence. 
 
-DUIs should not apply to people occupying a vehicle that does not require user intervention (SAE level 4 or 5)
-
-### Implied Consent [[TODO]]
-
-A Userof a vehicle for which they will not engage in the "dynamic driving task" has not consented in the same way as an individual who has knowingly engaged in the dynamic driving task and by doing so subjected people to potential danger. 
+The primary justifications and motivations behind an implied consent law for mandatory alcohol and drug testing are removed with a vehicle capable of all aspects of the dynamic driving task.
 
 
-## Privacy [[TODO]]
+## Privacy
 
-The privacy guidelines allow the industry to follow "best practices" which broadly means that the industry shall have significant discretion in this area, but may not be negligent in their management of personal data. Further, the privacy guidelinest require the availability of basic data for transparency matters, and also for individuals to have access to their own data as needed for their own security. The requirement that the information be accessible in a common file format just ensures that there will not be significant technical barriers to accessing the information. 
+In the Bill there is a special consideration for privacy policy in AV, because the existing measures could not be protective enough for personal data AV treatment.
 
-The Chief Privacy Officer is the agent of the state most capable of reviewing the sufficiency of the protections of consumer data. This agent should already have hte necessary contacts within the state and industry to make sure that the legislation meets the needs of the industry and the population at large. 
+In today’s privacy legislation, personal data in AV would be generally protected when the AV company promised to protect these data in its privacy notice but instead deceived the user in doing so (FTC Act, Section 5). Thus, a preexisting privacy notice from the company is needed to activate this privacy protection. Otherwise, the AV’s user could only rely on few protections limited to specific types of data (financial and health related), leaving poorly covered many others.  
+
+Our proposal builds on this need, and mirrors the protections of the Washington Administrative Code 284-04 for consumer financial and health information. It also construes over the Privacy recommendations of the Federal Automated Vehicles Policy (NHTSA September 2016).
+
+With the proposed Bill, the AV’s user will know exactly what data and for what purposes is being collected, will be notified when a major data breach takes place, and will be able to access AV data in case of an accident. In addition, the Bill limits the amount of data collected and the storage time to the minimum necessary, introduces data security, and encourages de-identification of personal data. Thus, the AV’s company will have to build a privacy policy and notice to its users and so, be now visible for the FTC in case of deceptive or unfair acts related to it, advancing transparency, accountability, and ultimately, consumers’ trust in AVs.
+
+## Creation of a New Committee
+
+The bill creates the Committee for Autonomous Technologies, Safety, and Cybersecurity (CyberCATS). CyberCATS is a double aimed Committee. On the one hand, it serves as a mean to coordinate the different departments and actors that may be involved in the safe deployment of AV, including not only governmental agents but industry. On the other hand, CyberCATS will be in charge of reviewing existing law and producing recommendations that would guide the transition from the traditional transportation system to an advanced mobility system, specifically focus on AV technologies.
+
+AV are a new and complex technology that requires a common and coordinated effort from public authorities and private sector. AV adoption is not longer a choice, though. However, an early public policy response could shape how this technology is developed for the good of society and economy. Thus, the sooner this Committee starts its work, the better prepared the State of Washington will be, taking advantage of addressing this challenges straight away, before the appear, instead of when the factual problem arises.
+
+The creation of CyberCATS coincides with the recommendations of the Federal Automated Vehicles Policy (NHTSA September 2016), for state policy model.
